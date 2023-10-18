@@ -165,7 +165,7 @@ app.post("/personalform",function(req,res){
                  "NumberOfDependents": Number(req.body.no_of_dependents)
             }
             
-        const result = await axios.post('http://127.0.0.1:5001/predict/personal', clientdata);
+        const result = await axios.post('http://127.0.0.1:5000/predict/personal', clientdata);
         console.log(result.data);
         if(result.data.voted_result[0]==1){
             res.sendFile(__dirname + "/static" + "/noteligible.html");
