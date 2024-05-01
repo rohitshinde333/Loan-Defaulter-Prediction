@@ -48,12 +48,7 @@ The project submission contains two main components:
 4. Open your web browser and go to `http://localhost:3000` to access the frontend.
 
 ## Contributors
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
-
-## License
-[Insert License Here]
+- Rohit Shinde (rohitshinde333)
 
 ## Acknowledgements
 We would like to express our gratitude to TVS Credit for organizing the E.P.I.C competition and providing us with the opportunity to showcase our skills. Additionally, we would like to thank the entire team for their hard work and dedication throughout the project.
