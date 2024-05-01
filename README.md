@@ -49,6 +49,7 @@ The project submission contains two main components:
 
 ## Contributors
 - Rohit Shinde (rohitshinde333)
+- Vivek Patil 
 
 ## Acknowledgements
 We would like to express our gratitude to TVS Credit for organizing the E.P.I.C competition and providing us with the opportunity to showcase our skills. Additionally, we would like to thank the entire team for their hard work and dedication throughout the project.
