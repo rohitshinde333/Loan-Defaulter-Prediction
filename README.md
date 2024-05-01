@@ -51,5 +51,12 @@ The project submission contains two main components:
 - Rohit Shinde (rohitshinde333)
 - Vivek Patil 
 
+## Lisence
+Proprietary License
+
+Copyright (c) 2024 Rohit Vishwas Shinde
+
+All rights reserved. This work may not be reproduced, modified, distributed, or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage or retrieval system, without the prior written permission of the copyright owner.
+
 ## Acknowledgements
 We would like to express our gratitude to TVS Credit for organizing the E.P.I.C competition and providing us with the opportunity to showcase our skills. Additionally, we would like to thank the entire team for their hard work and dedication throughout the project.
