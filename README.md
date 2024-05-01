@@ -32,7 +32,7 @@ The project submission contains two main components:
         ```
 - **Two Wheeler Loan Prediction:**
     - Test Accuracy: 93.48%
-    - ![ROC Curve](/ml_backend/notebooks/two_wheeler_roc_curve.png)
+    - ![ROC Curve](/ml_backend/notebooks/roc_curve_all_models.png)
 
 
 ## Usage
